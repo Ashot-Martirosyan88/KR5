@@ -3,7 +3,7 @@ import './Nav.css'
 function Nav() {
 	return (
 		<div className='nav'>
-			<div className='logo'>KR5</div>
+			<div className='logo'>MYyShop</div>
 			<div className='search'>
 				<input type='text' placeholder='Search...' className='search-input' />
 			</div>
